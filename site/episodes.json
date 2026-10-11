@@ -44,8 +44,12 @@
       "skills": [
         "procrastination-coach"
       ],
-      "videos": {},
-      "draft": true
+      "videos": {
+        "B站": "https://www.bilibili.com/video/BV1vhpv6EEJV/",
+        "抖音": "https://www.douyin.com/video/7694931914427288886",
+        "YouTube": "https://www.youtube.com/watch?v=s0V8NuWpHAQ"
+      },
+      "date": "2026-10-10"
     },
     {
       "no": "04",
