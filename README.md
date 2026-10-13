@@ -7,7 +7,7 @@
 | 期数 | 视频 | 内容 |
 |---|---|---|
 | 第 2 期 | 习惯让 AI 总结，正在毁掉你的学习 | [让 AI 考你](prompts/02-让AI考你.md)：别让 AI 替你总结，让它出题考你<br>[思维教练](skills/thinking-coach/SKILL.md)：一次问你一个问题，直到你能用自己的话讲清楚 |
-| 第 5 期 | 半小时的事，为什么能拖延一整天？ | [拖延检视](prompts/05-拖延检视.md)：先问你卡在哪，再把第一步缩到最小<br>[拖延检视 Skill](skills/procrastination-coach/SKILL.md)：同样的引导，装进 AI agent 里随时用 |
+| 第 5 期 | 半小时的事，为什么能拖延一整天？ | [拖延检视](prompts/05-拖延检视.md)：先问你卡在哪，再把第一步缩到最小<br>[拖延检视 Skill](skills/procrastination-coach/SKILL.md)：同样的引导，装进 AI agent 里随时用<br>[回收站实验 Skill](skills/recycle-bin-draft/SKILL.md)：写不出来是因为怕被评价时用。每天写半小时放进回收站，只收不评，攒够了再还原、再检查（[提示词版](prompts/05-回收站实验.md)给没法装 Skill 的人） |
 
 ## 提示词
 
@@ -20,11 +20,11 @@
 <!-- install-prompt -->
 ```text
 帮我安装这个仓库里的 Skill：https://github.com/ahao-learn/ahao-learn-toolkit
-把 skills/ 下的 thinking-coach 和 procrastination-coach 文件夹装到你的 Skill 目录（Claude Code 是 ~/.claude/skills/），装好后告诉我怎么用。
+把 skills/ 下的 thinking-coach、procrastination-coach 和 recycle-bin-draft 文件夹装到你的 Skill 目录（Claude Code 是 ~/.claude/skills/），装好后告诉我怎么用。
 ```
 <!-- /install-prompt -->
 
-装好后，跟 AI 说“用思维教练考考我”，或者“我又在拖延了”，就会开始。
+装好后，跟 AI 说“用思维教练考考我”“我又在拖延了”，或者“开始回收站实验”，就会开始。
 
 用 Obsidian 的话，插件 [FLOWnote](https://github.com/1095327780/FLOWnote) 已经内置了思维教练。
 
