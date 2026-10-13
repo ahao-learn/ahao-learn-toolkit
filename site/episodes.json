@@ -34,6 +34,19 @@
   ],
   "episodes": [
     {
+      "no": "06",
+      "episode": "S01E09",
+      "title": "不知道以后想干什么，怕学了被AI取代，还错不起",
+      "volume": "判断力使用说明",
+      "summary": "热爱多半是做出来的；看 AI 要看一行每天具体的活；试错不必是豪赌——用四周，先找做这行的人聊聊，再做一个能给人看的小东西。",
+      "prompt": "prompts/06-先试四周.md",
+      "skills": [
+        "try-four-weeks"
+      ],
+      "videos": {},
+      "draft": true
+    },
+    {
       "no": "05",
       "episode": "S01E08",
       "title": "半小时的事，为什么能拖延一整天？",

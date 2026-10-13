@@ -8,6 +8,7 @@
 |---|---|---|
 | 第 2 期 | 习惯让 AI 总结，正在毁掉你的学习 | [让 AI 考你](prompts/02-让AI考你.md)：别让 AI 替你总结，让它出题考你<br>[思维教练](skills/thinking-coach/SKILL.md)：一次问你一个问题，直到你能用自己的话讲清楚 |
 | 第 5 期 | 半小时的事，为什么能拖延一整天？ | [拖延检视](prompts/05-拖延检视.md)：先问你卡在哪，再把第一步缩到最小<br>[拖延检视 Skill](skills/procrastination-coach/SKILL.md)：同样的引导，装进 AI agent 里随时用<br>[回收站实验 Skill](skills/recycle-bin-draft/SKILL.md)：写不出来是因为怕被评价时用。每天写半小时放进回收站，只收不评，攒够了再还原、再检查（[提示词版](prompts/05-回收站实验.md)给没法装 Skill 的人） |
+| 第 6 期 | 不知道以后想干什么，怕学了被AI取代，还错不起 | [先试四周](prompts/06-先试四周.md)：不知道往哪走时，先花四周试一个方向（找做这行的人聊、做一个能给人看的小东西、每天记两三句）<br>[先试四周 Skill](skills/try-four-weeks/SKILL.md)：同样的四周，记录存在你电脑上，第四周一起摊开看 |
 
 ## 提示词
 
